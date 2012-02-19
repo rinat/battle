@@ -1,0 +1,32 @@
+<level>
+  <!-- E - enemy generation position -->
+  <!-- S - player position -->
+  <!-- T - wall-tree position -->
+  <!-- # - wall-scrub position -->
+  <!-- B - bonus generation position -->
+	<map width="28" height="23">
+		<row>T##########################T</row>
+		<row># E##        ##           E#</row>
+		<row>##     ## ## ## # ### #T # #</row>
+		<row>#  T # #   # TT     T #  # #</row>
+		<row># #### ## ## TT ##### # ## #</row>
+		<row>#             E            #</row>
+		<row># T### ## ###   ## ## ## # #</row>
+		<row># #### ## # #  ### ## ## # #</row>
+		<row>#B           ##           B#</row>
+		<row>## ### #####    ##### #T# ##</row>
+		<row> # # # ##### ## ##### # # # </row>
+		<row> T # # ##    TT    ## # # # </row>
+		<row> # # # ## ##    ## ## # # # </row>
+		<row>## ### ## ###  ### ## #T# ##</row>
+		<row>#B        #   ##          B#</row>
+		<row>###### T# ## ### # T# # ####</row>
+		<row>#      ## ## # ### ## #   # </row>
+		<row># T  # ##          ## T   # </row>
+		<row># #  # ## ### #S## ## #   # </row>
+		<row># # ## ## # # #    ##     ##</row>
+		<row>#   #         T  #      #  #</row>
+		<row>#E#    ## ## #T ##### ####E#</row>
+		<row>T##########################T</row>
+	</map>
+</level>

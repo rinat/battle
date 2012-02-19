@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ParticleEffectFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Effect>
+    <Lifetime From="0.7906977" To="0.7906977" />
+    <StartSize From="1" To="10.0714293" />
+    <EndSize From="1" To="10.0714293" />
+    <Velocity From="0" To="42.6356621" />
+    <Acceleration From="0" To="0" />
+    <Direction From="0" To="6.28318548" />
+    <DirectionSpread From="0" To="6.28318548" />
+    <TangentialSpeed From="0" To="0" />
+    <TangentialAcceleration From="0" To="0" />
+    <Spin From="0" To="0" />
+    <SpinAcceleration From="0" To="0" />
+    <GravityDirection From="0" To="0" />
+    <Gravity From="0" To="0" />
+    <StartTransparency From="0.1092437" To="0.1092437" />
+    <EndTransparency From="0.15" To="0.15" />
+    <StartColorBase B="192" G="192" R="192" A="255" />
+    <EndColorBase B="0" G="0" R="0" A="255" />
+  </Effect>
+  <Emitter>
+    <Location X="279" Y="273" />
+    <DistributionRange From="18.60465" To="18.60465" />
+    <Rate>3158.91479</Rate>
+    <PulseAmount>1294.57361</PulseAmount>
+    <Direction>0</Direction>
+    <RegionType>Radial</RegionType>
+  </Emitter>
+  <EditorSettings>
+    <BackgroundColor B="0" G="0" R="0" A="255" />
+    <SpriteIndex>0</SpriteIndex>
+    <BlendingMode>1</BlendingMode>
+  </EditorSettings>
+</ParticleEffectFile>
